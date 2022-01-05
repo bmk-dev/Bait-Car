@@ -1,0 +1,7 @@
+- Built for Rage Plugin Hook v1.90/LSPDFR v0.4.9 (0.4.8037.37597, Latest)
+- Fixed detection issues when player parked the bait car (green circle not showing up)
+- Fixed crash on plugin load when there is an invalid keybind in the configuration file
+- Fixed suspects going to same offset from vehicle, bumping into each other
+- Added link to list of possible keybinds to configuration file
+- Fixed CompuLite crash
+- Fixed rare occurrence where suspects could not be pulled out at gunpoint (felony stop)
