@@ -1,0 +1,5 @@
+- Fixed subtitle not displaying indicating suspect is cruising normally when no garage scenarios are found within range
+- Suspect now typically drives to scenarios obeying traffic laws, with a chance they won't. (Before, they never obeyed traffic laws)
+- Fixed crash when model lists contain spaces in the configuration file
+- Removed keybinds set to spawn objects left from development
+- Fixed suspect awareness not working when player is in a vehicle (pretty much always)
