@@ -1,0 +1,4 @@
+Fixed suspect drive to scenario timing out too early
+Fixed invalid transporter model error, for good
+Fixed pathfinding for scenario NorthArcherAve1 & NorthArcherAve2
+Fixed bait car blip not being attached to bait car when driving to scenario
