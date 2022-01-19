@@ -1,0 +1,1 @@
+Added options in config file to adjust the probability of each outcome
