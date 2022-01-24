@@ -1,0 +1,5 @@
+Fixed crash when spawning bait car
+Fixed bait car transport driver occasionally not making it to player
+Fixed (?) backup cops not dismissing after scenario was complete
+Fixed invalid vehicle crash when spawning new scenario
+Fixed missing subtitle
